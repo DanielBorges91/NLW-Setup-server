@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DanielBorges91/NLW-Setup-server#readme",
   "dependencies": {
+    "@fastify/cors": "^8.2.0",
     "@prisma/client": "^4.8.1",
     "fastify": "^4.11.0"
   },
